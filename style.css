@@ -1,0 +1,117 @@
+* {
+  font-family: roboto;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+html,body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  background: #2c2c2c;
+  position: relative;
+}
+.content, .tab {
+  flex: 1 0 auto;
+}
+header, footer {
+  flex-shrink: 0;
+}
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
+.d-flex {
+  display: flex;
+  position: relative;
+}
+.justify-center {
+  justify-content: space-around;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.align-center {
+  align-items: center;
+}
+.title-p1,
+.title-p2 {
+  font-weight: 600;
+  font-size: 3rem;
+  background: white;
+  padding: 1rem 1rem;
+}
+.banner {
+  border: 1px solid #999;
+  position: relative;
+  min-height: 100px;
+}
+.box-shadow {
+  box-shadow: 0px 1px 15px -5px #333333f3;
+}
+.rounded {
+  border-radius: 4px;
+}
+.pd-2 {
+  padding: 1rem;
+}
+.pdl-2 {
+  padding-left: 1rem;
+}
+.pdx-2 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+#hr {
+  position: absolute;
+  top: 50%;
+  background: red;
+  width: 100%;
+}
+.white-bg {
+  background: #fff;
+  color: #666;
+}
+.flag {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 999;
+}
+.flag div {
+  width: 100px;
+  height: 20px;
+}
+#green {
+  background: green;
+}
+#yellow {
+  background: yellow;
+}
+#red {
+  background: red;
+}
+.txt-red {
+  color: red;
+}
+.txt-right {
+  text-align: right;
+}
+.h-100 {
+  height: 100%;
+}
+.mg-2 {
+  margin: .2rem;
+}
+.btn-group {
+  background: #666;
+}
+input[type="button"] {
+  outline: none;
+  border: none;
+  padding: .652rem 1.869rem;
+  font-size: 1.5rem;
+  border-radius: 4px;
+  box-shadow: 0px 3px 5px #333;
+}
