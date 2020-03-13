@@ -1,5 +1,5 @@
 # g-light-theme-syntax theme
 
-A short description of your theme.
+Light theme Syntax base on vscode [G Dark theme](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://raw.githubusercontent.com/stoneC0der/atom-g-light-ui/master/assets/Screenshot%202020-03-13%20at%207.35.56%20PM.png)

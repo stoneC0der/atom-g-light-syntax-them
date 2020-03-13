@@ -2,12 +2,12 @@
   "name": "g-light-theme-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A light base on G dark Theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/stoneC0der/atom-g-light-theme",
+  "repository": "https://github.com/stoneC0der/atom-g-light-syntax-theme",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
